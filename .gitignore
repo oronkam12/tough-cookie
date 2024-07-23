@@ -5,8 +5,4 @@ npm-debug.log
 docker-compose.override.yml
 .nyc_output
 coverage
-.npm
-.config
-.bash_history
-dist/
-tmp/
+package-lock.json
